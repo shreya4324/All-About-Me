@@ -82,14 +82,17 @@ img {
 #sport{
      background-image: linear-gradient(darkseagreen, darkgoldenrod);
 }
-#inspiration{
-      background-image: linear-gradient(cadetblue,beige
- );
+#MyInspiration{
+      background-image: linear-gradient(cadetblue,beige);
 }
 .pinstory{
     text-decoration-color: azure; 
 }
-#inspirationtoart{
-    height: 500px;
+#wings-of-fire{
+    height: 450px;
     width: 600px;
+}
+
+#wings-of-fire:hover{
+    transform: scale(0.9)
 }
